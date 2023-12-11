@@ -1,0 +1,57 @@
+
+body{
+    background-image: url(../img/vermel2.avif);
+    }
+    
+    .menino{
+        margin-top: 30px;
+        margin-left: 20px;
+        width:300px;
+        height: 400px;
+        }
+        
+        .quadrado{
+            margin-top: -390px;
+            margin-left: 350px;
+            background-color: #ffffff;
+            border: 1px rgb(0, 0, 0) solid;
+            border-radius: 15px;
+            width: 600px;
+            height: 300px;}
+            
+        .botão{
+        
+            font-family: 'Times New Roman', Times, serif;
+            background-color: rgb(255, 0, 0);
+            border-radius: 10px;
+            height: 70px;
+            width: 95px;
+            margin-left: 70px;
+            margin-top: 90px;}
+        
+            .voltar{
+                font-family: 'Times New Roman', Times, serif;
+                background-color: rgba(255, 255, 255, 0.777);
+                border-radius: 10px;
+                border:1px  black solid;
+                height: 70px;
+                width: 95px;
+                margin-top: 20px;
+            }
+            .me{
+                margin-top: -100px;
+         margin-left: 500px;
+         width: 300px;
+         height: 350px;
+         z-index: 100;
+            }
+.men{
+    
+    margin-top: -730px;
+margin-left: 860px;
+ width: 280px;
+ height: 380px;
+ z-index: 100;
+    }
+    
+

@@ -1,0 +1,131 @@
+* {
+    padding:0;
+    margin: 0;
+    border: 0;
+    box-sizing: 0;
+}
+body{
+    background-image: url(../img/vermel2.avif);
+  
+    }
+
+
+.logo{
+    width: 350px;
+    margin-left: 10px;
+    height: 60px;
+    margin-top: 15px;
+   margin-left: 500px;
+}
+.home{
+    margin-left: 850px;
+    height: 70px;
+    margin-top: 4px;
+    margin-left: 20px;
+    background-color: rgba(224, 9, 9, 0.808);
+    border-radius: 45px;
+}
+.usuario{
+    margin-left: 20px;
+    height: 70px;
+    margin-top: 6px;
+    background-color: rgba(230, 0, 0, 0.808);
+    border-radius: 45px;
+}
+.livro{
+    margin-left: 7px;
+    height: 70px;
+    width: 75px;
+    background-color: rgba(230, 0, 0, 0.808);
+    border-radius: 50px;
+}
+.quadrado{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    background-color: rgba(255, 3, 3, 0.279);
+width: 200px;
+height: 150px;
+border:1px  black solid;
+border-radius: 20px;
+margin-left: 400px;
+margin-top: 80px;}
+
+.saci{
+    width: 80px;
+}
+    .quadrado2{
+        text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    background-color: rgba(255, 3, 3, 0.279);
+width: 200px;
+height: 150px;
+border:1px  rgb(5, 1, 0) solid;
+border-radius: 20px;
+margin-left: 400px;
+margin-top: 80px;}
+    .mago{
+        width: 80px;
+    }
+    .quadrado3{
+        text-align: center;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 13px;
+        background-color: rgba(255, 3, 3, 0.279);
+    width: 200px;
+    height: 150px;
+    border:1px  black solid;
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-top: 80px;}
+    
+    .chapeu{
+        width: 110px;
+    }
+    .quadrado4{
+        text-align: center;
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 13px;
+    background-color: rgba(255, 3, 3, 0.279);
+    width: 200px;
+    height: 150px;
+    border:1px  rgb(0, 0, 0) solid;
+    border-radius: 20px;
+    margin-left: 800px;
+    margin-top: -616px;}
+    
+.estrela{
+    width: 78px;
+}
+.quadrado5{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    background-color: rgba(255, 3, 3, 0.279);
+width: 200px;
+height: 150px;
+border:1px  black solid;
+border-radius: 20px;
+margin-left: 800px;
+margin-top: 75px;}
+
+.estrelaa{
+width: 78px;
+}
+
+.quadrado6{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+    background-color: rgba(255, 3, 3, 0.279);
+width: 200px;
+height: 150px;
+border:1px  black solid;
+border-radius: 20px;
+margin-left: 800px;
+margin-top: 80px;}
+
+.estrelaaa{
+width: 78px;
+}

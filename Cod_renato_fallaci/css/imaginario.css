@@ -1,0 +1,49 @@
+body {background-image: url(../img/vermel2.avif);}
+
+.amigoo{
+margin-top: 30px;
+margin-left: 30px;
+width: 300px;
+height: 400px;
+z-index: 100;
+}
+
+.quadrado{
+    margin-top: -390px;
+    margin-left: 350px;
+    background-color: #ffffff;
+    border: 1px rgb(0, 0, 0) solid;
+    border-radius: 15px;
+    width: 600px;
+    height: 300px;}
+    
+.botão{
+
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 0, 0);
+    border-radius: 10px;
+    height: 70px;
+    width: 95px;
+    margin-left: 70px;
+    margin-top: 90px;
+}
+.renato{
+    display: flex;
+    flex-direction: row;
+    gap: 22px;
+}
+.voltar{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(255, 255, 255, 0.777);
+    border-radius: 10px;
+    height: 70px;
+    width: 95px;
+    margin-top: 90px;}
+    
+    .costa{
+margin-top: -70px;
+margin-left: 560px;
+ width: 280px;
+ height: 370px;
+ z-index: 100;
+    }

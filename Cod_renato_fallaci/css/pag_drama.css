@@ -1,0 +1,44 @@
+body{
+  background-image: url(../img/vermel2.avif);
+  }
+
+    .im1{
+        width: 270px;
+        height: 370px;
+        border: solid 3px black;
+        margin-left: 60px;
+      margin-top: 100px;
+    }
+    .im2{
+        width: 270px;
+        height: 370px;
+        border: solid 3px black;
+        margin-left: 60px;
+      margin-top: -200px;
+    }
+    .im2:hover{
+        height: 400px;
+        width: -100px;
+    }
+    .im3{
+        width: 270px;
+        height: 370px;
+        border: solid 3px black;
+        margin-left:70px;
+      margin-top: -700px;
+    }
+    .im3:hover{
+        height: 400px;
+        width: -100px;
+            }
+    .im4{
+        width: 250px;
+        height: 370px;
+        border: solid 3px black;
+        margin-left:70px;
+      margin-top: -700px;
+    }
+    .coroa:hover{
+    height: 400px;
+    width: -100px;
+    }

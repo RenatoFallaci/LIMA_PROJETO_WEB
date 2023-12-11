@@ -1,0 +1,28 @@
+body{
+    background-image: url(../img/vermel2.avif);
+    }
+    
+.texto{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(255, 0, 0)
+}
+
+    .corvo{
+width: 200px;
+height: 280px;
+    }
+    .acordo{
+        width:200px;
+        height: 280px;
+    }
+      
+    .voltar{
+        font-family: 'Times New Roman', Times, serif;
+        border: 2px rgb(0, 0, 0) solid;
+        background-color: rgb(199, 0, 0);
+        border-radius: 10px;
+        height: 70px;
+        width: 150px;
+        margin-top: 50px;
+       margin-left:30px;
+    }
